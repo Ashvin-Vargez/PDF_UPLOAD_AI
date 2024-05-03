@@ -1,0 +1,17 @@
+utils
+
+langchain
+
+langchain-community
+
+openai
+
+# typing_extensions
+
+typing_extensions==4.7.1 
+
+pypdf
+
+sentence-transformers
+
+chromadb
